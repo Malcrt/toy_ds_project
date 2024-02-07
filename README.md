@@ -1,2 +1,6 @@
 # toy_ds_project
-DSCI 100, first GITHUB respository, worksheet 5
+project creation date: February 6, 2024.
+
+
+
+
